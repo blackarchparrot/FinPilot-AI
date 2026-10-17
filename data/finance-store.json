@@ -1,0 +1,2180 @@
+{
+  "summary": {
+    "totalBalance": 17971.02,
+    "monthlyIncome": 4050,
+    "monthlyExpenses": 2899.48,
+    "monthlySavings": 1150.52,
+    "savingsRate": 28,
+    "netCashFlow": 1150.52
+  },
+  "transactions": [
+    {
+      "date": "2026-10-17",
+      "description": "Autonomous Sweep: ৳4,000 to Monthly Protected Savings Reserve (৳)",
+      "amount": 4000,
+      "type": "transfer",
+      "category": "Savings",
+      "account": "High-Yield Savings",
+      "status": "completed",
+      "source": "ai_agent",
+      "id": "tx-1792199225686-742"
+    },
+    {
+      "date": "2026-10-16",
+      "description": "QA Persistence Assert Tx 1792199225294",
+      "amount": 47.85,
+      "type": "expense",
+      "category": "Groceries",
+      "account": "Checking",
+      "status": "completed",
+      "source": "manual",
+      "id": "tx-1792199225295-606"
+    },
+    {
+      "date": "2026-10-17",
+      "description": "Bill Payment: Small Cloud Storage Fee",
+      "amount": 9.99,
+      "type": "expense",
+      "category": "Utilities",
+      "account": "Checking",
+      "status": "completed",
+      "source": "recurring_bill",
+      "id": "tx-1792199204997-716"
+    },
+    {
+      "date": "2026-10-17",
+      "description": "Autonomous Sweep: ৳4,000 to Monthly Protected Savings Reserve (৳)",
+      "amount": 4000,
+      "type": "transfer",
+      "category": "Savings",
+      "account": "High-Yield Savings",
+      "status": "completed",
+      "source": "ai_agent",
+      "id": "tx-1792199079855-949"
+    },
+    {
+      "date": "2026-10-16",
+      "description": "QA Persistence Assert Tx 1792199068907",
+      "amount": 47.85,
+      "type": "expense",
+      "category": "Groceries",
+      "account": "Checking",
+      "status": "completed",
+      "source": "manual",
+      "id": "tx-1792199068908-833"
+    },
+    {
+      "date": "2026-10-17",
+      "description": "Bill Payment: Small Cloud Storage Fee",
+      "amount": 9.99,
+      "type": "expense",
+      "category": "Utilities",
+      "account": "Checking",
+      "status": "completed",
+      "source": "recurring_bill",
+      "id": "tx-1792199053077-618"
+    },
+    {
+      "date": "2026-10-17",
+      "description": "Autonomous Sweep: ৳4,000 to Monthly Protected Savings Reserve (৳)",
+      "amount": 4000,
+      "type": "transfer",
+      "category": "Savings",
+      "account": "High-Yield Savings",
+      "status": "completed",
+      "source": "ai_agent",
+      "id": "tx-1792198938896-29"
+    },
+    {
+      "date": "2026-10-16",
+      "description": "QA Persistence Assert Tx 1792198938885",
+      "amount": 47.85,
+      "type": "expense",
+      "category": "Groceries",
+      "account": "Checking",
+      "status": "completed",
+      "source": "manual",
+      "id": "tx-1792198938885-975"
+    },
+    {
+      "id": "tx-1",
+      "date": "2026-10-15",
+      "description": "TechCorp Bi-Weekly Direct Deposit",
+      "amount": 3200,
+      "type": "income",
+      "category": "Income",
+      "account": "Checking",
+      "status": "completed",
+      "source": "manual"
+    },
+    {
+      "id": "tx-2",
+      "date": "2026-10-14",
+      "description": "Whole Foods Market",
+      "amount": 142.8,
+      "type": "expense",
+      "category": "Groceries",
+      "account": "Sapphire Card",
+      "status": "completed",
+      "source": "ai_agent"
+    },
+    {
+      "id": "tx-3",
+      "date": "2026-10-14",
+      "description": "Blue Bottle Coffee",
+      "amount": 6.75,
+      "type": "expense",
+      "category": "Dining",
+      "account": "Sapphire Card",
+      "status": "completed",
+      "source": "manual"
+    },
+    {
+      "id": "tx-4",
+      "date": "2026-10-12",
+      "description": "ConEdison Electric & Gas",
+      "amount": 84.2,
+      "type": "expense",
+      "category": "Utilities",
+      "account": "Checking",
+      "status": "completed",
+      "source": "recurring_bill"
+    },
+    {
+      "id": "tx-5",
+      "date": "2026-10-11",
+      "description": "Netflix & Spotify Subscriptions",
+      "amount": 28.98,
+      "type": "expense",
+      "category": "Subscriptions",
+      "account": "Sapphire Card",
+      "status": "completed",
+      "source": "recurring_bill"
+    },
+    {
+      "id": "tx-6",
+      "date": "2026-10-10",
+      "description": "Uber Ride SFO Airport",
+      "amount": 42.5,
+      "type": "expense",
+      "category": "Transportation",
+      "account": "Sapphire Card",
+      "status": "completed",
+      "source": "manual"
+    },
+    {
+      "id": "tx-7",
+      "date": "2026-10-08",
+      "description": "Equinox Health & Fitness",
+      "amount": 160,
+      "type": "expense",
+      "category": "Healthcare",
+      "account": "Checking",
+      "status": "completed",
+      "source": "manual"
+    },
+    {
+      "id": "tx-8",
+      "date": "2026-10-06",
+      "description": "Trader Joe's Provisions",
+      "amount": 88.35,
+      "type": "expense",
+      "category": "Groceries",
+      "account": "Sapphire Card",
+      "status": "completed",
+      "source": "manual"
+    },
+    {
+      "id": "tx-9",
+      "date": "2026-10-04",
+      "description": "Sweetgreen Salad",
+      "amount": 18.25,
+      "type": "expense",
+      "category": "Dining",
+      "account": "Sapphire Card",
+      "status": "completed",
+      "source": "manual"
+    },
+    {
+      "id": "tx-10",
+      "date": "2026-10-01",
+      "description": "Skyline Residences Monthly Rent",
+      "amount": 2100,
+      "type": "expense",
+      "category": "Housing",
+      "account": "Checking",
+      "status": "completed",
+      "source": "recurring_bill"
+    },
+    {
+      "id": "tx-11",
+      "date": "2026-10-01",
+      "description": "Monthly High-Yield Savings Sweep",
+      "amount": 600,
+      "type": "transfer",
+      "category": "Savings",
+      "account": "Savings",
+      "status": "completed",
+      "source": "ai_agent"
+    },
+    {
+      "id": "tx-12",
+      "date": "2026-09-28",
+      "description": "Freelance UX Architecture Payout",
+      "amount": 850,
+      "type": "income",
+      "category": "Income",
+      "account": "Checking",
+      "status": "completed",
+      "source": "manual"
+    },
+    {
+      "id": "tx-13",
+      "date": "2026-09-26",
+      "description": "Amazon Essentials & Office Gear",
+      "amount": 64.12,
+      "type": "expense",
+      "category": "Shopping",
+      "account": "Sapphire Card",
+      "status": "completed",
+      "source": "manual"
+    }
+  ],
+  "budgets": [
+    {
+      "id": "b-1",
+      "category": "Housing",
+      "limit": 2200,
+      "spent": 2100,
+      "period": "monthly",
+      "color": "#6366F1"
+    },
+    {
+      "id": "b-2",
+      "category": "Groceries",
+      "limit": 600,
+      "spent": 374.7,
+      "period": "monthly",
+      "color": "#38BDF8"
+    },
+    {
+      "id": "b-3",
+      "category": "Dining",
+      "limit": 2200,
+      "spent": 25,
+      "period": "monthly",
+      "color": "#A855F7"
+    },
+    {
+      "id": "b-4",
+      "category": "Utilities",
+      "limit": 180,
+      "spent": 104.18,
+      "period": "monthly",
+      "color": "#06B6D4"
+    },
+    {
+      "id": "b-5",
+      "category": "Transportation",
+      "limit": 1400,
+      "spent": 42.5,
+      "period": "monthly",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "b-6",
+      "category": "Entertainment",
+      "limit": 200,
+      "spent": 0,
+      "period": "monthly",
+      "color": "#EC4899"
+    },
+    {
+      "id": "b-7",
+      "category": "Shopping",
+      "limit": 1200,
+      "spent": 64.12,
+      "period": "monthly",
+      "color": "#F59E0B"
+    }
+  ],
+  "savingsGoals": [
+    {
+      "id": "sg-1",
+      "name": "Emergency Fund (6 Months)",
+      "targetAmount": 18000,
+      "currentAmount": 13500,
+      "deadline": "2026-12-31",
+      "category": "Emergency",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "sg-2",
+      "name": "Tokyo & Kyoto Summer Trip",
+      "targetAmount": 4800,
+      "currentAmount": 3200,
+      "deadline": "2027-06-15",
+      "category": "Travel",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "sg-3",
+      "name": "Next-Gen Workstation Setup",
+      "targetAmount": 2500,
+      "currentAmount": 1850,
+      "deadline": "2026-11-30",
+      "category": "Technology",
+      "color": "#06B6D4"
+    },
+    {
+      "id": "sg-4",
+      "name": "EV Vehicle Down Payment",
+      "targetAmount": 10000,
+      "currentAmount": 4200,
+      "deadline": "2027-04-01",
+      "category": "Automotive",
+      "color": "#10B981"
+    },
+    {
+      "id": "sg-1792198938896",
+      "name": "Monthly Protected Savings Reserve (৳)",
+      "targetAmount": 4000,
+      "currentAmount": 4000,
+      "deadline": "2026-11-01",
+      "category": "Savings",
+      "color": "#EC4899"
+    },
+    {
+      "id": "sg-1792199079855",
+      "name": "Monthly Protected Savings Reserve (৳)",
+      "targetAmount": 4000,
+      "currentAmount": 4000,
+      "deadline": "2026-11-01",
+      "category": "Savings",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "sg-1792199225685",
+      "name": "Monthly Protected Savings Reserve (৳)",
+      "targetAmount": 4000,
+      "currentAmount": 4000,
+      "deadline": "2026-11-01",
+      "category": "Savings",
+      "color": "#3B82F6"
+    }
+  ],
+  "upcomingBills": [
+    {
+      "id": "bill-1",
+      "name": "Verizon Gigabit Fiber Internet",
+      "amount": 79.99,
+      "dueDate": "2026-10-19",
+      "category": "Utilities",
+      "isAutoPay": true,
+      "status": "paid",
+      "isEssential": true
+    },
+    {
+      "id": "bill-2",
+      "name": "CleanPower Grid Utility",
+      "amount": 112.45,
+      "dueDate": "2026-10-22",
+      "category": "Utilities",
+      "isAutoPay": false,
+      "status": "upcoming",
+      "isEssential": true
+    },
+    {
+      "id": "bill-3",
+      "name": "Geico Auto Insurance",
+      "amount": 145,
+      "dueDate": "2026-10-28",
+      "category": "Transportation",
+      "isAutoPay": true,
+      "status": "upcoming",
+      "isEssential": false
+    },
+    {
+      "id": "bill-4",
+      "name": "Cloud Storage & Workspace Tools",
+      "amount": 24.99,
+      "dueDate": "2026-10-31",
+      "category": "Subscriptions",
+      "isAutoPay": true,
+      "status": "upcoming",
+      "isEssential": false
+    },
+    {
+      "id": "bill-huge-1792198930519",
+      "name": "Superyacht Charter Fee",
+      "amount": 16554.3,
+      "dueDate": "2026-10-30",
+      "category": "Shopping",
+      "isAutoPay": false,
+      "status": "upcoming"
+    },
+    {
+      "id": "bill-1792199053061-422",
+      "name": "Superyacht Fleet Lease",
+      "amount": 50000,
+      "dueDate": "2026-10-31",
+      "category": "Shopping",
+      "isAutoPay": false,
+      "status": "upcoming",
+      "isEssential": false
+    },
+    {
+      "id": "bill-1792199053072-778",
+      "name": "Small Cloud Storage Fee",
+      "amount": 9.99,
+      "dueDate": "2026-10-25",
+      "category": "Utilities",
+      "isAutoPay": false,
+      "status": "paid",
+      "isEssential": false
+    },
+    {
+      "id": "bill-1792199204979-402",
+      "name": "Superyacht Fleet Lease",
+      "amount": 50000,
+      "dueDate": "2026-10-31",
+      "category": "Shopping",
+      "isAutoPay": false,
+      "status": "upcoming",
+      "isEssential": false
+    },
+    {
+      "id": "bill-1792199204993-166",
+      "name": "Small Cloud Storage Fee",
+      "amount": 9.99,
+      "dueDate": "2026-10-25",
+      "category": "Utilities",
+      "isAutoPay": false,
+      "status": "paid",
+      "isEssential": false
+    }
+  ],
+  "actionHistory": [
+    {
+      "userPrompt": "Rollback Autonomous Workflow: QA Rollback Replay Test",
+      "actionType": "workflow_rollback",
+      "summary": "Successfully reversed all demo changes from workflow wf-1792199225693. Restored original budgets, savings goals, and balances.",
+      "details": {
+        "workflowId": "wf-1792199225693",
+        "restoredBudgetsCount": 7
+      },
+      "status": "info",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Pre-workflow snapshot restored with 100% fidelity."
+      },
+      "id": "act-1792199225704",
+      "timestamp": "2026-10-17T01:07:05.704Z"
+    },
+    {
+      "userPrompt": "Approved & Executed: QA Rollback Replay Test",
+      "actionType": "workflow_act",
+      "summary": "Committed 3 budget caps, allocated ৳4,000 to savings, and protected 3 essential bills.",
+      "details": {
+        "workflowId": "wf-1792199225693",
+        "verified": true
+      },
+      "status": "success",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "All post-commit ledger assertions verified successfully."
+      },
+      "id": "act-1792199225701",
+      "timestamp": "2026-10-17T01:07:05.701Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Rollback Replay Test",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳4,000 savings + ৳5,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792199225693",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 4000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792199225693",
+      "timestamp": "2026-10-17T01:07:05.693Z"
+    },
+    {
+      "userPrompt": "Approved & Executed: QA Duplicate Execution Test",
+      "actionType": "workflow_act",
+      "summary": "Committed 3 budget caps, allocated ৳4,000 to savings, and protected 3 essential bills.",
+      "details": {
+        "workflowId": "wf-1792199225679",
+        "verified": true
+      },
+      "status": "success",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "All post-commit ledger assertions verified successfully."
+      },
+      "id": "act-1792199225687",
+      "timestamp": "2026-10-17T01:07:05.687Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Duplicate Execution Test",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳4,000 savings + ৳5,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792199225679",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 4000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792199225679",
+      "timestamp": "2026-10-17T01:07:05.679Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Infeasible Workflow",
+      "actionType": "workflow_plan",
+      "summary": "Detected infeasible plan: Shortfall of ৳15,200. Recovery plan generated.",
+      "details": {
+        "workflowId": "wf-1792199225671",
+        "isFeasible": false,
+        "startingAmount": 10000,
+        "targetSavings": 15000
+      },
+      "status": "info",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792199225672",
+      "timestamp": "2026-10-17T01:07:05.672Z"
+    },
+    {
+      "userPrompt": "Approved Proposal: Update Transportation Budget to $550",
+      "actionType": "create_or_update_budget",
+      "summary": "Successfully verified and committed Transportation monthly budget of $550.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199225659-95",
+          "actionType": "create_or_update_budget",
+          "title": "Update Transportation Budget to $550",
+          "description": "Set my Transportation budget to $550",
+          "impactAnalysis": "Adjusts monthly limit for Transportation from $1,400 to $550 (-$850/mo). Current spend is $42.5.",
+          "proposedChanges": {
+            "category": "Transportation",
+            "limit": 550,
+            "reason": "Set my Transportation budget to $550"
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:07:05.659Z",
+          "status": "executed",
+          "verificationDetails": "Successfully verified and committed Transportation monthly budget of $550."
+        },
+        "executionResult": {
+          "budget": {
+            "id": "b-5",
+            "category": "Transportation",
+            "limit": 550,
+            "spent": 42.5,
+            "period": "monthly",
+            "color": "#3B82F6"
+          },
+          "verified": true,
+          "message": "Successfully verified and committed Transportation monthly budget of $550."
+        }
+      },
+      "status": "success",
+      "aiModel": "finpilot-deterministic-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Successfully verified and committed Transportation monthly budget of $550."
+      },
+      "id": "act-1792199225664",
+      "timestamp": "2026-10-17T01:07:05.664Z"
+    },
+    {
+      "userPrompt": "Set my Transportation budget to $550",
+      "actionType": "proposal_created",
+      "summary": "Generated proposal prop-1792199225659-95: Update Transportation Budget to $550. Awaiting user approval.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199225659-95",
+          "actionType": "create_or_update_budget",
+          "title": "Update Transportation Budget to $550",
+          "description": "Set my Transportation budget to $550",
+          "impactAnalysis": "Adjusts monthly limit for Transportation from $1,400 to $550 (-$850/mo). Current spend is $42.5.",
+          "proposedChanges": {
+            "category": "Transportation",
+            "limit": 550,
+            "reason": "Set my Transportation budget to $550"
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:07:05.659Z",
+          "status": "executed",
+          "verificationDetails": "Successfully verified and committed Transportation monthly budget of $550."
+        },
+        "toolCalls": [
+          {
+            "toolName": "create_or_update_budget",
+            "arguments": {
+              "category": "Transportation",
+              "limit": 550,
+              "confirmed": false
+            },
+            "result": {
+              "id": "prop-1792199225659-95",
+              "actionType": "create_or_update_budget",
+              "title": "Update Transportation Budget to $550",
+              "description": "Set my Transportation budget to $550",
+              "impactAnalysis": "Adjusts monthly limit for Transportation from $1,400 to $550 (-$850/mo). Current spend is $42.5.",
+              "parameters": {
+                "category": "Transportation",
+                "limit": 550,
+                "reason": "Set my Transportation budget to $550"
+              }
+            },
+            "timestamp": "2026-10-17T01:07:05.660Z"
+          }
+        ]
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-deterministic-engine (Demo Mode)",
+      "toolCalls": [
+        {
+          "toolName": "create_or_update_budget",
+          "arguments": {
+            "category": "Transportation",
+            "limit": 550,
+            "confirmed": false
+          },
+          "result": {
+            "id": "prop-1792199225659-95",
+            "actionType": "create_or_update_budget",
+            "title": "Update Transportation Budget to $550",
+            "description": "Set my Transportation budget to $550",
+            "impactAnalysis": "Adjusts monthly limit for Transportation from $1,400 to $550 (-$850/mo). Current spend is $42.5.",
+            "parameters": {
+              "category": "Transportation",
+              "limit": 550,
+              "reason": "Set my Transportation budget to $550"
+            }
+          },
+          "timestamp": "2026-10-17T01:07:05.660Z"
+        }
+      ],
+      "id": "act-1792199225660",
+      "timestamp": "2026-10-17T01:07:05.660Z"
+    },
+    {
+      "userPrompt": "Rollback Autonomous Workflow: QA Verification Scenario",
+      "actionType": "workflow_rollback",
+      "summary": "Successfully reversed all demo changes from workflow wf-1792199225278. Restored original budgets, savings goals, and balances.",
+      "details": {
+        "workflowId": "wf-1792199225278",
+        "restoredBudgetsCount": 7
+      },
+      "status": "info",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Pre-workflow snapshot restored with 100% fidelity."
+      },
+      "id": "act-1792199225291",
+      "timestamp": "2026-10-17T01:07:05.291Z"
+    },
+    {
+      "userPrompt": "Approved & Executed: QA Verification Scenario",
+      "actionType": "workflow_act",
+      "summary": "Committed 3 budget caps, allocated ৳5,000 to savings, and protected 3 essential bills.",
+      "details": {
+        "workflowId": "wf-1792199225278",
+        "verified": true
+      },
+      "status": "success",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "All post-commit ledger assertions verified successfully."
+      },
+      "id": "act-1792199225285",
+      "timestamp": "2026-10-17T01:07:05.285Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Verification Scenario",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳5,000 savings + ৳4,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792199225278",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 5000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792199225278",
+      "timestamp": "2026-10-17T01:07:05.278Z"
+    },
+    {
+      "userPrompt": "Approved Proposal: Update Dining Budget to $750",
+      "actionType": "create_or_update_budget",
+      "summary": "Successfully verified and committed Dining monthly budget of $750.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199225259-118",
+          "actionType": "create_or_update_budget",
+          "title": "Update Dining Budget to $750",
+          "description": "Set my Dining budget to $750",
+          "impactAnalysis": "Adjusts monthly limit for Dining from $2,200 to $750 (-$1,450/mo). Current spend is $25.",
+          "proposedChanges": {
+            "category": "Dining",
+            "limit": 750,
+            "reason": "Set my Dining budget to $750"
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:07:05.259Z",
+          "status": "executed",
+          "verificationDetails": "Successfully verified and committed Dining monthly budget of $750."
+        },
+        "executionResult": {
+          "budget": {
+            "id": "b-3",
+            "category": "Dining",
+            "limit": 2200,
+            "spent": 25,
+            "period": "monthly",
+            "color": "#A855F7"
+          },
+          "verified": true,
+          "message": "Successfully verified and committed Dining monthly budget of $750."
+        }
+      },
+      "status": "success",
+      "aiModel": "finpilot-deterministic-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Successfully verified and committed Dining monthly budget of $750."
+      },
+      "id": "act-1792199225269",
+      "timestamp": "2026-10-17T01:07:05.269Z"
+    },
+    {
+      "userPrompt": "Set my Dining budget to $750",
+      "actionType": "proposal_created",
+      "summary": "Generated proposal prop-1792199225259-118: Update Dining Budget to $750. Awaiting user approval.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199225259-118",
+          "actionType": "create_or_update_budget",
+          "title": "Update Dining Budget to $750",
+          "description": "Set my Dining budget to $750",
+          "impactAnalysis": "Adjusts monthly limit for Dining from $2,200 to $750 (-$1,450/mo). Current spend is $25.",
+          "proposedChanges": {
+            "category": "Dining",
+            "limit": 750,
+            "reason": "Set my Dining budget to $750"
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:07:05.259Z",
+          "status": "executed",
+          "verificationDetails": "Successfully verified and committed Dining monthly budget of $750."
+        },
+        "toolCalls": [
+          {
+            "toolName": "create_or_update_budget",
+            "arguments": {
+              "category": "Dining",
+              "limit": 750,
+              "confirmed": false
+            },
+            "result": {
+              "id": "prop-1792199225259-118",
+              "actionType": "create_or_update_budget",
+              "title": "Update Dining Budget to $750",
+              "description": "Set my Dining budget to $750",
+              "impactAnalysis": "Adjusts monthly limit for Dining from $2,200 to $750 (-$1,450/mo). Current spend is $25.",
+              "parameters": {
+                "category": "Dining",
+                "limit": 750,
+                "reason": "Set my Dining budget to $750"
+              }
+            },
+            "timestamp": "2026-10-17T01:07:05.259Z"
+          }
+        ]
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-deterministic-engine (Demo Mode)",
+      "toolCalls": [
+        {
+          "toolName": "create_or_update_budget",
+          "arguments": {
+            "category": "Dining",
+            "limit": 750,
+            "confirmed": false
+          },
+          "result": {
+            "id": "prop-1792199225259-118",
+            "actionType": "create_or_update_budget",
+            "title": "Update Dining Budget to $750",
+            "description": "Set my Dining budget to $750",
+            "impactAnalysis": "Adjusts monthly limit for Dining from $2,200 to $750 (-$1,450/mo). Current spend is $25.",
+            "parameters": {
+              "category": "Dining",
+              "limit": 750,
+              "reason": "Set my Dining budget to $750"
+            }
+          },
+          "timestamp": "2026-10-17T01:07:05.259Z"
+        }
+      ],
+      "id": "act-1792199225259",
+      "timestamp": "2026-10-17T01:07:05.259Z"
+    },
+    {
+      "userPrompt": "Declined Proposal: Update Groceries Budget to $950",
+      "actionType": "proposal_rejected",
+      "summary": "User declined proposed action \"Update Groceries Budget to $950\". No financial state was modified. Reason: User decided groceries limit was too generous.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199219430-672",
+          "actionType": "create_or_update_budget",
+          "title": "Update Groceries Budget to $950",
+          "description": "Set monthly limit for Groceries to $950.",
+          "impactAnalysis": "Adjusts monthly limit for Groceries from $600 to $950 (+$350/mo). Current spend is $326.85.",
+          "proposedChanges": {
+            "category": "Groceries",
+            "limit": 950
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:06:59.430Z",
+          "status": "rejected"
+        },
+        "reason": "User decided groceries limit was too generous"
+      },
+      "status": "info",
+      "aiModel": "finpilot-deterministic-engine",
+      "id": "act-1792199224814",
+      "timestamp": "2026-10-17T01:07:04.814Z"
+    },
+    {
+      "userPrompt": "Set my Groceries budget to $950",
+      "actionType": "create_or_update_budget",
+      "summary": "I have prepared a proposal to update your **Groceries** budget:\n\n* **Proposed Budget:** $950.00 / month\n* **Previous Budget:** $600.00 / month (+$350.00 increas...",
+      "details": {
+        "toolCalls": [
+          {
+            "toolName": "create_or_update_budget",
+            "arguments": {
+              "category": "Groceries",
+              "limit": 950
+            },
+            "result": {},
+            "timestamp": "2026-10-17T01:06:59.431Z"
+          }
+        ],
+        "proposal": {
+          "id": "prop-1792199219430-672",
+          "actionType": "create_or_update_budget",
+          "title": "Update Groceries Budget to $950",
+          "description": "Set monthly limit for Groceries to $950.",
+          "impactAnalysis": "Adjusts monthly limit for Groceries from $600 to $950 (+$350/mo). Current spend is $326.85.",
+          "proposedChanges": {
+            "category": "Groceries",
+            "limit": 950
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:06:59.430Z",
+          "status": "rejected"
+        }
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "gemini-3.8-flash",
+      "toolCalls": [
+        {
+          "toolName": "create_or_update_budget",
+          "arguments": {
+            "category": "Groceries",
+            "limit": 950
+          },
+          "result": {},
+          "timestamp": "2026-10-17T01:06:59.431Z"
+        }
+      ],
+      "verificationResult": {
+        "verified": true,
+        "message": "Deterministic execution verified against ledger"
+      },
+      "id": "act-1792199224805",
+      "timestamp": "2026-10-17T01:07:04.805Z"
+    },
+    {
+      "userPrompt": "Show me my recent transactions",
+      "actionType": "get_transactions",
+      "summary": "Here are your 10 most recent transactions:\n\n| Date | Description | Category | Account | Amount | Type |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **Oct 17, ...",
+      "details": {
+        "toolCalls": [
+          {
+            "toolName": "get_transactions",
+            "arguments": {
+              "limit": 10
+            },
+            "result": {
+              "transactions": [
+                {
+                  "date": "2026-10-17",
+                  "description": "Bill Payment: Small Cloud Storage Fee",
+                  "amount": 9.99,
+                  "type": "expense",
+                  "category": "Utilities",
+                  "account": "Checking",
+                  "status": "completed",
+                  "source": "recurring_bill",
+                  "id": "tx-1792199204997-716"
+                },
+                {
+                  "date": "2026-10-17",
+                  "description": "Autonomous Sweep: ৳4,000 to Monthly Protected Savings Reserve (৳)",
+                  "amount": 4000,
+                  "type": "transfer",
+                  "category": "Savings",
+                  "account": "High-Yield Savings",
+                  "status": "completed",
+                  "source": "ai_agent",
+                  "id": "tx-1792199079855-949"
+                },
+                {
+                  "date": "2026-10-16",
+                  "description": "QA Persistence Assert Tx 1792199068907",
+                  "amount": 47.85,
+                  "type": "expense",
+                  "category": "Groceries",
+                  "account": "Checking",
+                  "status": "completed",
+                  "source": "manual",
+                  "id": "tx-1792199068908-833"
+                },
+                {
+                  "date": "2026-10-17",
+                  "description": "Bill Payment: Small Cloud Storage Fee",
+                  "amount": 9.99,
+                  "type": "expense",
+                  "category": "Utilities",
+                  "account": "Checking",
+                  "status": "completed",
+                  "source": "recurring_bill",
+                  "id": "tx-1792199053077-618"
+                },
+                {
+                  "date": "2026-10-17",
+                  "description": "Autonomous Sweep: ৳4,000 to Monthly Protected Savings Reserve (৳)",
+                  "amount": 4000,
+                  "type": "transfer",
+                  "category": "Savings",
+                  "account": "High-Yield Savings",
+                  "status": "completed",
+                  "source": "ai_agent",
+                  "id": "tx-1792198938896-29"
+                },
+                {
+                  "date": "2026-10-16",
+                  "description": "QA Persistence Assert Tx 1792198938885",
+                  "amount": 47.85,
+                  "type": "expense",
+                  "category": "Groceries",
+                  "account": "Checking",
+                  "status": "completed",
+                  "source": "manual",
+                  "id": "tx-1792198938885-975"
+                },
+                {
+                  "id": "tx-1",
+                  "date": "2026-10-15",
+                  "description": "TechCorp Bi-Weekly Direct Deposit",
+                  "amount": 3200,
+                  "type": "income",
+                  "category": "Income",
+                  "account": "Checking",
+                  "status": "completed",
+                  "source": "manual"
+                },
+                {
+                  "id": "tx-2",
+                  "date": "2026-10-14",
+                  "description": "Whole Foods Market",
+                  "amount": 142.8,
+                  "type": "expense",
+                  "category": "Groceries",
+                  "account": "Sapphire Card",
+                  "status": "completed",
+                  "source": "ai_agent"
+                },
+                {
+                  "id": "tx-3",
+                  "date": "2026-10-14",
+                  "description": "Blue Bottle Coffee",
+                  "amount": 6.75,
+                  "type": "expense",
+                  "category": "Dining",
+                  "account": "Sapphire Card",
+                  "status": "completed",
+                  "source": "manual"
+                },
+                {
+                  "id": "tx-4",
+                  "date": "2026-10-12",
+                  "description": "ConEdison Electric & Gas",
+                  "amount": 84.2,
+                  "type": "expense",
+                  "category": "Utilities",
+                  "account": "Checking",
+                  "status": "completed",
+                  "source": "recurring_bill"
+                }
+              ],
+              "count": 10,
+              "totalAmount": 11549.43
+            },
+            "timestamp": "2026-10-17T01:06:51.342Z"
+          }
+        ]
+      },
+      "status": "success",
+      "aiModel": "gemini-3.8-flash",
+      "toolCalls": [
+        {
+          "toolName": "get_transactions",
+          "arguments": {
+            "limit": 10
+          },
+          "result": {
+            "transactions": [
+              {
+                "date": "2026-10-17",
+                "description": "Bill Payment: Small Cloud Storage Fee",
+                "amount": 9.99,
+                "type": "expense",
+                "category": "Utilities",
+                "account": "Checking",
+                "status": "completed",
+                "source": "recurring_bill",
+                "id": "tx-1792199204997-716"
+              },
+              {
+                "date": "2026-10-17",
+                "description": "Autonomous Sweep: ৳4,000 to Monthly Protected Savings Reserve (৳)",
+                "amount": 4000,
+                "type": "transfer",
+                "category": "Savings",
+                "account": "High-Yield Savings",
+                "status": "completed",
+                "source": "ai_agent",
+                "id": "tx-1792199079855-949"
+              },
+              {
+                "date": "2026-10-16",
+                "description": "QA Persistence Assert Tx 1792199068907",
+                "amount": 47.85,
+                "type": "expense",
+                "category": "Groceries",
+                "account": "Checking",
+                "status": "completed",
+                "source": "manual",
+                "id": "tx-1792199068908-833"
+              },
+              {
+                "date": "2026-10-17",
+                "description": "Bill Payment: Small Cloud Storage Fee",
+                "amount": 9.99,
+                "type": "expense",
+                "category": "Utilities",
+                "account": "Checking",
+                "status": "completed",
+                "source": "recurring_bill",
+                "id": "tx-1792199053077-618"
+              },
+              {
+                "date": "2026-10-17",
+                "description": "Autonomous Sweep: ৳4,000 to Monthly Protected Savings Reserve (৳)",
+                "amount": 4000,
+                "type": "transfer",
+                "category": "Savings",
+                "account": "High-Yield Savings",
+                "status": "completed",
+                "source": "ai_agent",
+                "id": "tx-1792198938896-29"
+              },
+              {
+                "date": "2026-10-16",
+                "description": "QA Persistence Assert Tx 1792198938885",
+                "amount": 47.85,
+                "type": "expense",
+                "category": "Groceries",
+                "account": "Checking",
+                "status": "completed",
+                "source": "manual",
+                "id": "tx-1792198938885-975"
+              },
+              {
+                "id": "tx-1",
+                "date": "2026-10-15",
+                "description": "TechCorp Bi-Weekly Direct Deposit",
+                "amount": 3200,
+                "type": "income",
+                "category": "Income",
+                "account": "Checking",
+                "status": "completed",
+                "source": "manual"
+              },
+              {
+                "id": "tx-2",
+                "date": "2026-10-14",
+                "description": "Whole Foods Market",
+                "amount": 142.8,
+                "type": "expense",
+                "category": "Groceries",
+                "account": "Sapphire Card",
+                "status": "completed",
+                "source": "ai_agent"
+              },
+              {
+                "id": "tx-3",
+                "date": "2026-10-14",
+                "description": "Blue Bottle Coffee",
+                "amount": 6.75,
+                "type": "expense",
+                "category": "Dining",
+                "account": "Sapphire Card",
+                "status": "completed",
+                "source": "manual"
+              },
+              {
+                "id": "tx-4",
+                "date": "2026-10-12",
+                "description": "ConEdison Electric & Gas",
+                "amount": 84.2,
+                "type": "expense",
+                "category": "Utilities",
+                "account": "Checking",
+                "status": "completed",
+                "source": "recurring_bill"
+              }
+            ],
+            "count": 10,
+            "totalAmount": 11549.43
+          },
+          "timestamp": "2026-10-17T01:06:51.342Z"
+        }
+      ],
+      "verificationResult": {
+        "verified": true,
+        "message": "Deterministic execution verified against ledger"
+      },
+      "id": "act-1792199216150",
+      "timestamp": "2026-10-17T01:06:56.150Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: Demo Scenario: ৳20,000 Remaining · Save ৳5,000 (Feasible Plan)",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳5,000 savings + ৳4,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792199116334",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 5000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792199116345",
+      "timestamp": "2026-10-17T01:05:16.345Z"
+    },
+    {
+      "userPrompt": "Rollback Autonomous Workflow: QA Rollback Replay Test",
+      "actionType": "workflow_rollback",
+      "summary": "Successfully reversed all demo changes from workflow wf-1792199079862. Restored original budgets, savings goals, and balances.",
+      "details": {
+        "workflowId": "wf-1792199079862",
+        "restoredBudgetsCount": 7
+      },
+      "status": "info",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Pre-workflow snapshot restored with 100% fidelity."
+      },
+      "id": "act-1792199079869",
+      "timestamp": "2026-10-17T01:04:39.869Z"
+    },
+    {
+      "userPrompt": "Approved & Executed: QA Rollback Replay Test",
+      "actionType": "workflow_act",
+      "summary": "Committed 3 budget caps, allocated ৳4,000 to savings, and protected 3 essential bills.",
+      "details": {
+        "workflowId": "wf-1792199079862",
+        "verified": true
+      },
+      "status": "success",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "All post-commit ledger assertions verified successfully."
+      },
+      "id": "act-1792199079867",
+      "timestamp": "2026-10-17T01:04:39.867Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Rollback Replay Test",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳4,000 savings + ৳5,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792199079862",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 4000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792199079862",
+      "timestamp": "2026-10-17T01:04:39.862Z"
+    },
+    {
+      "userPrompt": "Approved & Executed: QA Duplicate Execution Test",
+      "actionType": "workflow_act",
+      "summary": "Committed 3 budget caps, allocated ৳4,000 to savings, and protected 3 essential bills.",
+      "details": {
+        "workflowId": "wf-1792199079849",
+        "verified": true
+      },
+      "status": "success",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "All post-commit ledger assertions verified successfully."
+      },
+      "id": "act-1792199079855",
+      "timestamp": "2026-10-17T01:04:39.855Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Duplicate Execution Test",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳4,000 savings + ৳5,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792199079849",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 4000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792199079849",
+      "timestamp": "2026-10-17T01:04:39.849Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Infeasible Workflow",
+      "actionType": "workflow_plan",
+      "summary": "Detected infeasible plan: Shortfall of ৳15,200. Recovery plan generated.",
+      "details": {
+        "workflowId": "wf-1792199079842",
+        "isFeasible": false,
+        "startingAmount": 10000,
+        "targetSavings": 15000
+      },
+      "status": "info",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792199079843",
+      "timestamp": "2026-10-17T01:04:39.843Z"
+    },
+    {
+      "userPrompt": "Approved Proposal: Update Transportation Budget to $550",
+      "actionType": "create_or_update_budget",
+      "summary": "Successfully verified and committed Transportation monthly budget of $550.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199074414-765",
+          "actionType": "create_or_update_budget",
+          "title": "Update Transportation Budget to $550",
+          "description": "Set monthly limit for Transportation to $550.",
+          "impactAnalysis": "Adjusts monthly limit for Transportation from $1,400 to $550 (-$850/mo). Current spend is $42.5.",
+          "proposedChanges": {
+            "category": "Transportation",
+            "limit": 550
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:04:34.414Z",
+          "status": "executed",
+          "verificationDetails": "Successfully verified and committed Transportation monthly budget of $550."
+        },
+        "executionResult": {
+          "budget": {
+            "id": "b-5",
+            "category": "Transportation",
+            "limit": 550,
+            "spent": 42.5,
+            "period": "monthly",
+            "color": "#3B82F6"
+          },
+          "verified": true,
+          "message": "Successfully verified and committed Transportation monthly budget of $550."
+        }
+      },
+      "status": "success",
+      "aiModel": "finpilot-deterministic-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Successfully verified and committed Transportation monthly budget of $550."
+      },
+      "id": "act-1792199079834",
+      "timestamp": "2026-10-17T01:04:39.834Z"
+    },
+    {
+      "userPrompt": "Set my Transportation budget to $550",
+      "actionType": "create_or_update_budget",
+      "summary": "I have prepared the proposal to update your budget:\n\n* **Category:** Transportation\n* **Proposed Limit:** $550.00 / month\n* **Current Limit:** $1,400.00 / month...",
+      "details": {
+        "toolCalls": [
+          {
+            "toolName": "create_or_update_budget",
+            "arguments": {
+              "limit": 550,
+              "confirmed": false,
+              "category": "Transportation"
+            },
+            "result": {},
+            "timestamp": "2026-10-17T01:04:34.414Z"
+          }
+        ],
+        "proposal": {
+          "id": "prop-1792199074414-765",
+          "actionType": "create_or_update_budget",
+          "title": "Update Transportation Budget to $550",
+          "description": "Set monthly limit for Transportation to $550.",
+          "impactAnalysis": "Adjusts monthly limit for Transportation from $1,400 to $550 (-$850/mo). Current spend is $42.5.",
+          "proposedChanges": {
+            "category": "Transportation",
+            "limit": 550
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:04:34.414Z",
+          "status": "executed",
+          "verificationDetails": "Successfully verified and committed Transportation monthly budget of $550."
+        }
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "gemini-3.8-flash",
+      "toolCalls": [
+        {
+          "toolName": "create_or_update_budget",
+          "arguments": {
+            "limit": 550,
+            "confirmed": false,
+            "category": "Transportation"
+          },
+          "result": {},
+          "timestamp": "2026-10-17T01:04:34.414Z"
+        }
+      ],
+      "verificationResult": {
+        "verified": true,
+        "message": "Deterministic execution verified against ledger"
+      },
+      "id": "act-1792199079829",
+      "timestamp": "2026-10-17T01:04:39.829Z"
+    },
+    {
+      "userPrompt": "Rollback Autonomous Workflow: QA Verification Scenario",
+      "actionType": "workflow_rollback",
+      "summary": "Successfully reversed all demo changes from workflow wf-1792199068893. Restored original budgets, savings goals, and balances.",
+      "details": {
+        "workflowId": "wf-1792199068893",
+        "restoredBudgetsCount": 7
+      },
+      "status": "info",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Pre-workflow snapshot restored with 100% fidelity."
+      },
+      "id": "act-1792199068904",
+      "timestamp": "2026-10-17T01:04:28.904Z"
+    },
+    {
+      "userPrompt": "Approved & Executed: QA Verification Scenario",
+      "actionType": "workflow_act",
+      "summary": "Committed 3 budget caps, allocated ৳5,000 to savings, and protected 3 essential bills.",
+      "details": {
+        "workflowId": "wf-1792199068893",
+        "verified": true
+      },
+      "status": "success",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "All post-commit ledger assertions verified successfully."
+      },
+      "id": "act-1792199068901",
+      "timestamp": "2026-10-17T01:04:28.901Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Verification Scenario",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳5,000 savings + ৳4,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792199068893",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 5000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792199068893",
+      "timestamp": "2026-10-17T01:04:28.893Z"
+    },
+    {
+      "userPrompt": "Approved Proposal: Update Dining Budget to $750",
+      "actionType": "create_or_update_budget",
+      "summary": "Successfully verified and committed Dining monthly budget of $750.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199068880-227",
+          "actionType": "create_or_update_budget",
+          "title": "Update Dining Budget to $750",
+          "description": "Set my Dining budget to $750",
+          "impactAnalysis": "Adjusts monthly limit for Dining from $2,200 to $750 (-$1,450/mo). Current spend is $25.",
+          "proposedChanges": {
+            "category": "Dining",
+            "limit": 750,
+            "reason": "Set my Dining budget to $750"
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:04:28.880Z",
+          "status": "executed",
+          "verificationDetails": "Successfully verified and committed Dining monthly budget of $750."
+        },
+        "executionResult": {
+          "budget": {
+            "id": "b-3",
+            "category": "Dining",
+            "limit": 2200,
+            "spent": 25,
+            "period": "monthly",
+            "color": "#A855F7"
+          },
+          "verified": true,
+          "message": "Successfully verified and committed Dining monthly budget of $750."
+        }
+      },
+      "status": "success",
+      "aiModel": "finpilot-deterministic-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Successfully verified and committed Dining monthly budget of $750."
+      },
+      "id": "act-1792199068885",
+      "timestamp": "2026-10-17T01:04:28.885Z"
+    },
+    {
+      "userPrompt": "Set my Dining budget to $750",
+      "actionType": "proposal_created",
+      "summary": "Generated proposal prop-1792199068880-227: Update Dining Budget to $750. Awaiting user approval.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199068880-227",
+          "actionType": "create_or_update_budget",
+          "title": "Update Dining Budget to $750",
+          "description": "Set my Dining budget to $750",
+          "impactAnalysis": "Adjusts monthly limit for Dining from $2,200 to $750 (-$1,450/mo). Current spend is $25.",
+          "proposedChanges": {
+            "category": "Dining",
+            "limit": 750,
+            "reason": "Set my Dining budget to $750"
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:04:28.880Z",
+          "status": "executed",
+          "verificationDetails": "Successfully verified and committed Dining monthly budget of $750."
+        },
+        "toolCalls": [
+          {
+            "toolName": "create_or_update_budget",
+            "arguments": {
+              "category": "Dining",
+              "limit": 750,
+              "confirmed": false
+            },
+            "result": {
+              "id": "prop-1792199068880-227",
+              "actionType": "create_or_update_budget",
+              "title": "Update Dining Budget to $750",
+              "description": "Set my Dining budget to $750",
+              "impactAnalysis": "Adjusts monthly limit for Dining from $2,200 to $750 (-$1,450/mo). Current spend is $25.",
+              "parameters": {
+                "category": "Dining",
+                "limit": 750,
+                "reason": "Set my Dining budget to $750"
+              }
+            },
+            "timestamp": "2026-10-17T01:04:28.880Z"
+          }
+        ]
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-deterministic-engine (Demo Mode)",
+      "toolCalls": [
+        {
+          "toolName": "create_or_update_budget",
+          "arguments": {
+            "category": "Dining",
+            "limit": 750,
+            "confirmed": false
+          },
+          "result": {
+            "id": "prop-1792199068880-227",
+            "actionType": "create_or_update_budget",
+            "title": "Update Dining Budget to $750",
+            "description": "Set my Dining budget to $750",
+            "impactAnalysis": "Adjusts monthly limit for Dining from $2,200 to $750 (-$1,450/mo). Current spend is $25.",
+            "parameters": {
+              "category": "Dining",
+              "limit": 750,
+              "reason": "Set my Dining budget to $750"
+            }
+          },
+          "timestamp": "2026-10-17T01:04:28.880Z"
+        }
+      ],
+      "id": "act-1792199068880",
+      "timestamp": "2026-10-17T01:04:28.880Z"
+    },
+    {
+      "userPrompt": "Declined Proposal: Update Groceries Budget to $950",
+      "actionType": "proposal_rejected",
+      "summary": "User declined proposed action \"Update Groceries Budget to $950\". No financial state was modified. Reason: User decided groceries limit was too generous.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199067436-580",
+          "actionType": "create_or_update_budget",
+          "title": "Update Groceries Budget to $950",
+          "description": "Set my Groceries budget to $950",
+          "impactAnalysis": "Adjusts monthly limit for Groceries from $600 to $950 (+$350/mo). Current spend is $279.",
+          "proposedChanges": {
+            "category": "Groceries",
+            "limit": 950,
+            "reason": "Set my Groceries budget to $950"
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:04:27.436Z",
+          "status": "rejected"
+        },
+        "reason": "User decided groceries limit was too generous"
+      },
+      "status": "info",
+      "aiModel": "finpilot-deterministic-engine",
+      "id": "act-1792199067445",
+      "timestamp": "2026-10-17T01:04:27.445Z"
+    },
+    {
+      "userPrompt": "Set my Groceries budget to $950",
+      "actionType": "proposal_created",
+      "summary": "Generated proposal prop-1792199067436-580: Update Groceries Budget to $950. Awaiting user approval.",
+      "details": {
+        "proposal": {
+          "id": "prop-1792199067436-580",
+          "actionType": "create_or_update_budget",
+          "title": "Update Groceries Budget to $950",
+          "description": "Set my Groceries budget to $950",
+          "impactAnalysis": "Adjusts monthly limit for Groceries from $600 to $950 (+$350/mo). Current spend is $279.",
+          "proposedChanges": {
+            "category": "Groceries",
+            "limit": 950,
+            "reason": "Set my Groceries budget to $950"
+          },
+          "isConsequential": true,
+          "timestamp": "2026-10-17T01:04:27.436Z",
+          "status": "rejected"
+        },
+        "toolCalls": [
+          {
+            "toolName": "create_or_update_budget",
+            "arguments": {
+              "category": "Groceries",
+              "limit": 950,
+              "confirmed": false
+            },
+            "result": {
+              "id": "prop-1792199067436-580",
+              "actionType": "create_or_update_budget",
+              "title": "Update Groceries Budget to $950",
+              "description": "Set my Groceries budget to $950",
+              "impactAnalysis": "Adjusts monthly limit for Groceries from $600 to $950 (+$350/mo). Current spend is $279.",
+              "parameters": {
+                "category": "Groceries",
+                "limit": 950,
+                "reason": "Set my Groceries budget to $950"
+              }
+            },
+            "timestamp": "2026-10-17T01:04:27.436Z"
+          }
+        ]
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-deterministic-engine (Demo Mode)",
+      "toolCalls": [
+        {
+          "toolName": "create_or_update_budget",
+          "arguments": {
+            "category": "Groceries",
+            "limit": 950,
+            "confirmed": false
+          },
+          "result": {
+            "id": "prop-1792199067436-580",
+            "actionType": "create_or_update_budget",
+            "title": "Update Groceries Budget to $950",
+            "description": "Set my Groceries budget to $950",
+            "impactAnalysis": "Adjusts monthly limit for Groceries from $600 to $950 (+$350/mo). Current spend is $279.",
+            "parameters": {
+              "category": "Groceries",
+              "limit": 950,
+              "reason": "Set my Groceries budget to $950"
+            }
+          },
+          "timestamp": "2026-10-17T01:04:27.436Z"
+        }
+      ],
+      "id": "act-1792199067436",
+      "timestamp": "2026-10-17T01:04:27.436Z"
+    },
+    {
+      "userPrompt": "Show me my recent transactions",
+      "actionType": "get_transactions",
+      "summary": "Retrieved 5 deterministic transactions totaling $7400.64.",
+      "details": {
+        "toolCalls": [
+          {
+            "toolName": "get_transactions",
+            "arguments": {
+              "limit": 5
+            },
+            "result": {
+              "transactions": [
+                {
+                  "date": "2026-10-17",
+                  "description": "Bill Payment: Small Cloud Storage Fee",
+                  "amount": 9.99,
+                  "type": "expense",
+                  "category": "Utilities",
+                  "account": "Checking",
+                  "status": "completed",
+                  "source": "recurring_bill",
+                  "id": "tx-1792199053077-618"
+                },
+                {
+                  "date": "2026-10-17",
+                  "description": "Autonomous Sweep: ৳4,000 to Monthly Protected Savings Reserve (৳)",
+                  "amount": 4000,
+                  "type": "transfer",
+                  "category": "Savings",
+                  "account": "High-Yield Savings",
+                  "status": "completed",
+                  "source": "ai_agent",
+                  "id": "tx-1792198938896-29"
+                },
+                {
+                  "date": "2026-10-16",
+                  "description": "QA Persistence Assert Tx 1792198938885",
+                  "amount": 47.85,
+                  "type": "expense",
+                  "category": "Groceries",
+                  "account": "Checking",
+                  "status": "completed",
+                  "source": "manual",
+                  "id": "tx-1792198938885-975"
+                },
+                {
+                  "id": "tx-1",
+                  "date": "2026-10-15",
+                  "description": "TechCorp Bi-Weekly Direct Deposit",
+                  "amount": 3200,
+                  "type": "income",
+                  "category": "Income",
+                  "account": "Checking",
+                  "status": "completed",
+                  "source": "manual"
+                },
+                {
+                  "id": "tx-2",
+                  "date": "2026-10-14",
+                  "description": "Whole Foods Market",
+                  "amount": 142.8,
+                  "type": "expense",
+                  "category": "Groceries",
+                  "account": "Sapphire Card",
+                  "status": "completed",
+                  "source": "ai_agent"
+                }
+              ],
+              "count": 5,
+              "totalAmount": 7400.64
+            },
+            "timestamp": "2026-10-17T01:04:15.236Z"
+          }
+        ]
+      },
+      "status": "success",
+      "aiModel": "finpilot-deterministic-engine (Demo Mode)",
+      "toolCalls": [
+        {
+          "toolName": "get_transactions",
+          "arguments": {
+            "limit": 5
+          },
+          "result": {
+            "transactions": [
+              {
+                "date": "2026-10-17",
+                "description": "Bill Payment: Small Cloud Storage Fee",
+                "amount": 9.99,
+                "type": "expense",
+                "category": "Utilities",
+                "account": "Checking",
+                "status": "completed",
+                "source": "recurring_bill",
+                "id": "tx-1792199053077-618"
+              },
+              {
+                "date": "2026-10-17",
+                "description": "Autonomous Sweep: ৳4,000 to Monthly Protected Savings Reserve (৳)",
+                "amount": 4000,
+                "type": "transfer",
+                "category": "Savings",
+                "account": "High-Yield Savings",
+                "status": "completed",
+                "source": "ai_agent",
+                "id": "tx-1792198938896-29"
+              },
+              {
+                "date": "2026-10-16",
+                "description": "QA Persistence Assert Tx 1792198938885",
+                "amount": 47.85,
+                "type": "expense",
+                "category": "Groceries",
+                "account": "Checking",
+                "status": "completed",
+                "source": "manual",
+                "id": "tx-1792198938885-975"
+              },
+              {
+                "id": "tx-1",
+                "date": "2026-10-15",
+                "description": "TechCorp Bi-Weekly Direct Deposit",
+                "amount": 3200,
+                "type": "income",
+                "category": "Income",
+                "account": "Checking",
+                "status": "completed",
+                "source": "manual"
+              },
+              {
+                "id": "tx-2",
+                "date": "2026-10-14",
+                "description": "Whole Foods Market",
+                "amount": 142.8,
+                "type": "expense",
+                "category": "Groceries",
+                "account": "Sapphire Card",
+                "status": "completed",
+                "source": "ai_agent"
+              }
+            ],
+            "count": 5,
+            "totalAmount": 7400.64
+          },
+          "timestamp": "2026-10-17T01:04:15.236Z"
+        }
+      ],
+      "verificationResult": {
+        "verified": true,
+        "message": "Verified against current ledger"
+      },
+      "id": "act-1792199055236",
+      "timestamp": "2026-10-17T01:04:15.236Z"
+    },
+    {
+      "userPrompt": "Rollback Autonomous Workflow: QA Rollback Replay Test",
+      "actionType": "workflow_rollback",
+      "summary": "Successfully reversed all demo changes from workflow wf-1792198938898. Restored original budgets, savings goals, and balances.",
+      "details": {
+        "workflowId": "wf-1792198938898",
+        "restoredBudgetsCount": 7
+      },
+      "status": "info",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Pre-workflow snapshot restored with 100% fidelity."
+      },
+      "id": "act-1792198938900",
+      "timestamp": "2026-10-17T01:02:18.900Z"
+    },
+    {
+      "userPrompt": "Approved & Executed: QA Rollback Replay Test",
+      "actionType": "workflow_act",
+      "summary": "Committed 3 budget caps, allocated ৳4,000 to savings, and protected 3 essential bills.",
+      "details": {
+        "workflowId": "wf-1792198938898",
+        "verified": true
+      },
+      "status": "success",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "All post-commit ledger assertions verified successfully."
+      },
+      "id": "act-1792198938900",
+      "timestamp": "2026-10-17T01:02:18.900Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Rollback Replay Test",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳4,000 savings + ৳5,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792198938898",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 4000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792198938898",
+      "timestamp": "2026-10-17T01:02:18.898Z"
+    },
+    {
+      "userPrompt": "Approved & Executed: QA Duplicate Execution Test",
+      "actionType": "workflow_act",
+      "summary": "Committed 3 budget caps, allocated ৳4,000 to savings, and protected 3 essential bills.",
+      "details": {
+        "workflowId": "wf-1792198938895",
+        "verified": true
+      },
+      "status": "success",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "All post-commit ledger assertions verified successfully."
+      },
+      "id": "act-1792198938898",
+      "timestamp": "2026-10-17T01:02:18.898Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Duplicate Execution Test",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳4,000 savings + ৳5,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792198938895",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 4000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792198938895",
+      "timestamp": "2026-10-17T01:02:18.895Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Infeasible Workflow",
+      "actionType": "workflow_plan",
+      "summary": "Detected infeasible plan: Shortfall of ৳15,200. Recovery plan generated.",
+      "details": {
+        "workflowId": "wf-1792198938894",
+        "isFeasible": false,
+        "startingAmount": 10000,
+        "targetSavings": 15000
+      },
+      "status": "info",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792198938894",
+      "timestamp": "2026-10-17T01:02:18.894Z"
+    },
+    {
+      "userPrompt": "Rollback Autonomous Workflow: QA Verification Scenario",
+      "actionType": "workflow_rollback",
+      "summary": "Successfully reversed all demo changes from workflow wf-1792198938880. Restored original budgets, savings goals, and balances.",
+      "details": {
+        "workflowId": "wf-1792198938880",
+        "restoredBudgetsCount": 7
+      },
+      "status": "info",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "Pre-workflow snapshot restored with 100% fidelity."
+      },
+      "id": "act-1792198938885",
+      "timestamp": "2026-10-17T01:02:18.885Z"
+    },
+    {
+      "userPrompt": "Approved & Executed: QA Verification Scenario",
+      "actionType": "workflow_act",
+      "summary": "Committed 3 budget caps, allocated ৳5,000 to savings, and protected 3 essential bills.",
+      "details": {
+        "workflowId": "wf-1792198938880",
+        "verified": true
+      },
+      "status": "success",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "verificationResult": {
+        "verified": true,
+        "message": "All post-commit ledger assertions verified successfully."
+      },
+      "id": "act-1792198938884",
+      "timestamp": "2026-10-17T01:02:18.884Z"
+    },
+    {
+      "userPrompt": "Autonomous Workflow Triggered: QA Verification Scenario",
+      "actionType": "workflow_plan",
+      "summary": "Planned feasible budget: ৳10,200 essential bills + ৳5,000 savings + ৳4,800 buffer.",
+      "details": {
+        "workflowId": "wf-1792198938880",
+        "isFeasible": true,
+        "startingAmount": 20000,
+        "targetSavings": 5000
+      },
+      "status": "awaiting_confirmation",
+      "aiModel": "finpilot-autonomous-workflow-engine",
+      "id": "act-1792198938881",
+      "timestamp": "2026-10-17T01:02:18.881Z"
+    },
+    {
+      "userPrompt": "What did I spend on groceries?",
+      "actionType": "calculate_monthly_spending",
+      "summary": "You have spent **$231.15** on groceries this month.\n\n### Breakdown & Status:\n* **Total Spent:** $231.15 (8% of your total monthly expenses)\n* **Monthly Budget:*...",
+      "details": {
+        "toolCalls": [
+          {
+            "toolName": "calculate_monthly_spending",
+            "arguments": {
+              "byCategory": true
+            },
+            "result": {
+              "totalExpenses": 2735.95,
+              "totalIncome": 4050,
+              "netSavings": 1314.05,
+              "savingsRatePct": 32,
+              "categoryBreakdown": {
+                "Groceries": {
+                  "amount": 231.15,
+                  "percentageOfTotal": 8,
+                  "overBudget": false,
+                  "budgetLimit": 600
+                },
+                "Dining": {
+                  "amount": 25,
+                  "percentageOfTotal": 1,
+                  "overBudget": false,
+                  "budgetLimit": 350
+                },
+                "Utilities": {
+                  "amount": 84.2,
+                  "percentageOfTotal": 3,
+                  "overBudget": false,
+                  "budgetLimit": 180
+                },
+                "Subscriptions": {
+                  "amount": 28.98,
+                  "percentageOfTotal": 1,
+                  "overBudget": false
+                },
+                "Transportation": {
+                  "amount": 42.5,
+                  "percentageOfTotal": 2,
+                  "overBudget": false,
+                  "budgetLimit": 200
+                },
+                "Healthcare": {
+                  "amount": 160,
+                  "percentageOfTotal": 6,
+                  "overBudget": false
+                },
+                "Housing": {
+                  "amount": 2100,
+                  "percentageOfTotal": 77,
+                  "overBudget": false,
+                  "budgetLimit": 2200
+                },
+                "Shopping": {
+                  "amount": 64.12,
+                  "percentageOfTotal": 2,
+                  "overBudget": false,
+                  "budgetLimit": 250
+                }
+              },
+              "topSpendingCategory": {
+                "category": "Housing",
+                "amount": 2100
+              },
+              "dailyAverageSpend": 91.2
+            },
+            "timestamp": "2026-10-17T01:02:14.297Z"
+          }
+        ]
+      },
+      "status": "success",
+      "aiModel": "gemini-3.8-flash",
+      "toolCalls": [
+        {
+          "toolName": "calculate_monthly_spending",
+          "arguments": {
+            "byCategory": true
+          },
+          "result": {
+            "totalExpenses": 2735.95,
+            "totalIncome": 4050,
+            "netSavings": 1314.05,
+            "savingsRatePct": 32,
+            "categoryBreakdown": {
+              "Groceries": {
+                "amount": 231.15,
+                "percentageOfTotal": 8,
+                "overBudget": false,
+                "budgetLimit": 600
+              },
+              "Dining": {
+                "amount": 25,
+                "percentageOfTotal": 1,
+                "overBudget": false,
+                "budgetLimit": 350
+              },
+              "Utilities": {
+                "amount": 84.2,
+                "percentageOfTotal": 3,
+                "overBudget": false,
+                "budgetLimit": 180
+              },
+              "Subscriptions": {
+                "amount": 28.98,
+                "percentageOfTotal": 1,
+                "overBudget": false
+              },
+              "Transportation": {
+                "amount": 42.5,
+                "percentageOfTotal": 2,
+                "overBudget": false,
+                "budgetLimit": 200
+              },
+              "Healthcare": {
+                "amount": 160,
+                "percentageOfTotal": 6,
+                "overBudget": false
+              },
+              "Housing": {
+                "amount": 2100,
+                "percentageOfTotal": 77,
+                "overBudget": false,
+                "budgetLimit": 2200
+              },
+              "Shopping": {
+                "amount": 64.12,
+                "percentageOfTotal": 2,
+                "overBudget": false,
+                "budgetLimit": 250
+              }
+            },
+            "topSpendingCategory": {
+              "category": "Housing",
+              "amount": 2100
+            },
+            "dailyAverageSpend": 91.2
+          },
+          "timestamp": "2026-10-17T01:02:14.297Z"
+        }
+      ],
+      "verificationResult": {
+        "verified": true,
+        "message": "Deterministic execution verified against ledger"
+      },
+      "id": "act-1792198938853",
+      "timestamp": "2026-10-17T01:02:18.853Z"
+    },
+    {
+      "id": "act-1",
+      "timestamp": "2026-10-15T14:22:10.000Z",
+      "userPrompt": "Categorize recent grocery purchases and check budget status",
+      "actionType": "financial_query",
+      "summary": "Audited 2 recent grocery transactions totaling $231.15; Groceries budget currently at 38.5% utilization ($368.85 remaining).",
+      "details": {
+        "category": "Groceries",
+        "totalSpent": 231.15,
+        "budgetLimit": 600
+      },
+      "status": "success",
+      "aiModel": "gemini-3.8-flash"
+    },
+    {
+      "id": "act-2",
+      "timestamp": "2026-10-14T09:15:32.000Z",
+      "userPrompt": "Add $150 contribution to Tokyo trip goal",
+      "actionType": "contribute_savings",
+      "summary": "Transferred $150.00 into Tokyo & Kyoto Summer Trip goal; current balance increased to $3,200.00 (66.7% of $4,800 goal).",
+      "details": {
+        "goalId": "sg-2",
+        "contribution": 150,
+        "newBalance": 3200
+      },
+      "status": "success",
+      "aiModel": "gemini-3.8-flash"
+    },
+    {
+      "id": "act-3",
+      "timestamp": "2026-10-12T16:40:05.000Z",
+      "userPrompt": "Analyze upcoming bills for next 14 days and check liquidity",
+      "actionType": "financial_query",
+      "summary": "Identified 4 upcoming bills totaling $362.43. Checking balance of $5,240.25 comfortably covers all obligations with $4,877.82 margin.",
+      "details": {
+        "billsCount": 4,
+        "totalDue": 362.43,
+        "checkingBalance": 5240.25
+      },
+      "status": "success",
+      "aiModel": "gemini-3.8-flash"
+    }
+  ],
+  "cashFlowHistory": [
+    {
+      "month": "May 2026",
+      "income": 5900,
+      "expenses": 3820,
+      "savings": 1100
+    },
+    {
+      "month": "Jun 2026",
+      "income": 6400,
+      "expenses": 3950,
+      "savings": 1350
+    },
+    {
+      "month": "Jul 2026",
+      "income": 6150,
+      "expenses": 3700,
+      "savings": 1200
+    },
+    {
+      "month": "Aug 2026",
+      "income": 6600,
+      "expenses": 4120,
+      "savings": 1400
+    },
+    {
+      "month": "Sep 2026",
+      "income": 6400,
+      "expenses": 3810,
+      "savings": 1300
+    },
+    {
+      "month": "Oct 2026",
+      "income": 6400,
+      "expenses": 2953,
+      "savings": 1250
+    }
+  ]
+}
